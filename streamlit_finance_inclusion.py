@@ -6,7 +6,7 @@ import pandas as pd
 import joblib
 
 # Load your trained model
-xgb_model = joblib.load(r'Downloads/xgb_modelss.pkl')
+xgb_model = joblib.load('xgb_modelss.pkl')
 
 st.title('Financial Inclusion Prediction')
 st.write("Predict whether an individual is likely to have a bank account.")
