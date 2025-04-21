@@ -4,3 +4,4 @@ nltk
 opencv-python
 xgboost
 streamlit
+cv2
