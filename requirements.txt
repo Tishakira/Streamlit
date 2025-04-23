@@ -1,7 +1,5 @@
 scikit-learn
 matplotlib
 nltk
-opencv-python
 xgboost
 streamlit
-cv2
