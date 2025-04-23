@@ -3,3 +3,4 @@ matplotlib
 nltk
 xgboost
 streamlit
+opencv-python
